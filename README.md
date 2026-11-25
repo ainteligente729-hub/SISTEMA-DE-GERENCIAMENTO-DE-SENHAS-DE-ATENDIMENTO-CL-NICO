@@ -35,11 +35,9 @@ Paciente com idade superior a 80 anos.
 
 Exemplo:
 
-```text
 U001
 U002
 U003
-```
 
 ### Preferencial
 
@@ -174,7 +172,6 @@ clinica.exe
 
 Cadastro de um paciente normal:
 
-```text
 Genero (F/M): M
 Idade: 25
 E lactante? (S/N): N
@@ -184,55 +181,42 @@ Possui condicao de obesidade? (S/N): N
 Paciente cadastrado!
 Categoria: Normal
 Senha: N001
-```
 
 Cadastro de uma paciente gestante:
 
-```text
 Genero (F/M): F
 E gestante? (S/N): S
 
 Paciente cadastrado!
 Categoria: Preferencial
 Senha: P001
-```
 
 Cadastro de paciente com mais de 80 anos:
 
-```text
 Genero (F/M): M
 Idade: 85
 
 Paciente cadastrado!
 Categoria: Urgente
 Senha: U001
-```
 
 Se as três senhas estiverem aguardando:
 
-```text
 N001
 P001
 U001
-```
 
 a próxima senha chamada será:
 
-```text
 U001
-```
 
 Depois:
 
-```text
 P001
-```
 
 e por último:
 
-```text
 N001
-```
 
 ---
 
