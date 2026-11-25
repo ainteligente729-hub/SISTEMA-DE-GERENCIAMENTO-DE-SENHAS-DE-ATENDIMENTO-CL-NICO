@@ -1,0 +1,2 @@
+# SISTEMA-DE-GERENCIAMENTO-DE-SENHAS-DE-ATENDIMENTO-CL-NICO
+Aula de pensamento computacional
