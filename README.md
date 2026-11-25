@@ -54,11 +54,10 @@ Paciente que seja:
 
 Exemplo:
 
-```text
 P001
 P002
 P003
-```
+
 
 ### Normal
 
@@ -66,19 +65,15 @@ Paciente que não possui nenhuma das condições anteriores.
 
 Exemplo:
 
-```text
 N001
 N002
 N003
-```
 
 A ordem de atendimento é:
 
-```text
 Urgente
 Preferencial
 Normal
-```
 
 Dentro de cada categoria, a ordem de cadastro é respeitada.
 
@@ -88,14 +83,12 @@ Dentro de cada categoria, a ordem de cadastro é respeitada.
 
 O programa possui o seguinte menu:
 
-```text
 1 - Cadastrar paciente
 2 - Consultar proxima senha
 3 - Chamar paciente
 4 - Finalizar atendimento
 5 - Mostrar painel
 6 - Sair
-```
 
 ---
 
