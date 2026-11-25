@@ -150,21 +150,15 @@ O projeto utiliza:
 
 Para compilar usando GCC:
 
-```bash
 gcc main.c -o clinica
-```
 
 No Linux ou macOS:
 
-```bash
 ./clinica
-```
 
 No Windows:
 
-```bash
 clinica.exe
-```
 
 ---
 
